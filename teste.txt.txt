@@ -1,5 +1,0 @@
-Ryan Rodrigues Soares e Isabelly Barbosa Cirino
-
-para criar uma "pasta" no pronto de comando do git tem que colocar o seguinte comando (git init).
-
-com isso na pasta abreta no pronto de comando do git vai surgir uma nova pasta chamada ".git".
