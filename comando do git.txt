@@ -1,0 +1,9 @@
+Ryan Rodrigues Soares e Isabelly Barbosa Cirino
+
+para criar uma "pasta" no pronto de comando do git tem que colocar o seguinte comando (git init).
+
+com isso na pasta abreta no pronto de comando do git vai surgir uma nova pasta chamada ".git".
+
+para salvar todas as alterações da sua pasta use o comando (git add .).
+
+para criar um arquivo novo você utiliza o comando (git commit -m "Nome do arquivo.txt"). m de mensagem
